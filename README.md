@@ -26,4 +26,3 @@ The result image "out.bmp" will be saved at part1/build, and the elapsed time wi
 
 Same process applies to compiling part2.
 
-![GaussFilter diagram] (https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg)
